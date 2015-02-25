@@ -1,0 +1,4 @@
+* Sync all openvpn nodes at one time.
+* Generate certificate using user registeration info.
+* Monitor all status of openvpn nodes
+* Start/Stop/Restart/Edit Config/ openvpn node
